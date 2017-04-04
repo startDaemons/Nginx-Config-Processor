@@ -222,6 +222,20 @@ class Directive extends Printable
     }
 
     /**
+     * @return string
+     */
+    public function getName() {
+        return $this->name;
+    }
+
+    /**
+     * @return string
+     */
+    public function getValue() {
+        return $this->value;
+    }
+
+    /**
      * Does this Directive have a Comment associated with it?
      *
      * @return bool
