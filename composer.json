@@ -1,5 +1,5 @@
 {
-    "name": "romanpitak/nginx-config-processor",
+    "name": "startDaemons/nginx-config-processor",
     "type": "library",
     "description": "Nginx configuration files processor.",
     "keywords": [
@@ -17,7 +17,7 @@
         "manager",
         "php"
     ],
-    "homepage": "https://github.com/romanpitak/Nginx-Config-Processor",
+    "homepage": "https://github.com/startDaemons/Nginx-Config-Processor",
     "license": "MIT",
     "authors": [
         {
@@ -35,7 +35,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/romanpitak/Nginx-Config-Processor.git"
+            "url": "https://github.com/startDaemons/Nginx-Config-Processor.git"
         }
     ],
     "bugs": {
